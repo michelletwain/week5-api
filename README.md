@@ -36,7 +36,7 @@ My chosen API for this project is Nasa.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![](https://github.com/michelletwain/TwitchClone/blob/master/project2.gif)
+![](https://github.com/michelletwain/week5-api/blob/master/api.gif)
 
 GIF created with ScreenToGif.
 
